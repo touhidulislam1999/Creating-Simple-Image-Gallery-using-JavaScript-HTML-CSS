@@ -57,6 +57,8 @@ The **Simple Image Gallery** allows users to browse through a collection of imag
 ---
 ## 📸 Preview 
 
+<p>Site Link: <a href="https://touhidulislam1999.github.io/Creating-Simple-Image-Gallery-using-JavaScript-HTML-CSS/" target="_blank">Image Gallery</a></p>
+
 ![image](https://github.com/user-attachments/assets/446c5d78-e3a0-491e-92cd-2c3df33e9e1b)
 ![image](https://github.com/user-attachments/assets/16773f3b-a869-4319-8927-16e30b085f98)
 ![image](https://github.com/user-attachments/assets/7a0aaa9f-53d2-482c-9879-744e38d3d5e9)
